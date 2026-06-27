@@ -12,7 +12,7 @@ I enjoy building user-centered applications that balance clean design with solid
 - BSc (Hons.) Computer Science, **LUMS**  
   Graduated with Distinction
 - Strong academic foundation across HCI, software engineering, systems, and data structures
-- Extensive teaching and mentoring experience in core CS courses
+
 
 ---
 
