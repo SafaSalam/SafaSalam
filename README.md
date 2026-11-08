@@ -29,13 +29,13 @@ Computer Science graduate from **Lahore University of Management Sciences (LUMS)
 
 ## Selected Projects
 
-- **[Food Crisis Prediction with News Data](https://github.com/SafaSalam/Portfolio)** · Python, ML/NLP, LLMs, Polars, Pandas  
+- **[Food Crisis Prediction with News Data](https://medium.com/@wajihanaveed.01/predicting-food-crises-with-news-data-16bea62f5548)** · Python, ML/NLP, LLMs, Polars, Pandas  
   A Pakistan-focused forecasting pipeline combining IPC labels, traditional risk indicators, Urdu/English news, and weather signals. Includes news processing and LLM-based extraction of district-level food-security signals.
 
-- **[DastarKhwaan](https://github.com/SafaSalam/Portfolio)** · React, JavaScript, AWS, Terraform  
+- **[DastarKhwaan](https://www.safasalam.com/projects/dastarkhwan)** · React, JavaScript, AWS, Terraform  
   Multi-vendor restaurant delivery platform with customer ordering, vendor dashboards, delivery workflows, order tracking, and reviews. AWS infrastructure provisioned with Terraform.
 
-- **[Darzi](https://github.com/SafaSalam/Portfolio)** · React, Redux, WebSockets  
+- **[Darzi](https://www.safasalam.com/projects/darzi)** · React, Redux, WebSockets  
   Two-sided tailor marketplace with client and tailor dashboards, custom orders, payments, chat, reviews, and real-time order updates.
 
 - **[Desktop Medicine Reminder](https://github.com/SafaSalam/RetroMedReminder)** · Electron, JavaScript  
