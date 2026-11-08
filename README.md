@@ -1,73 +1,107 @@
-# Safa Salam
+## Hi there, I’m Safa Salam 👋
 
-**Software Developer | Full-Stack Engineering | AI & LLM Applications**
+I’m a Computer Science graduate from **Lahore University of Management Sciences (LUMS)**, with a strong focus on **Human–Computer Interaction (HCI), frontend development, and design-driven software engineering**.
 
-Computer Science graduate from **Lahore University of Management Sciences (LUMS)**, graduated with Distinction. I build software across the frontend, backend, and applied AI, with an interest in turning complex requirements into useful, reliable products.
+I enjoy building user-centered applications that balance clean design with solid engineering fundamentals.
 
-🌐 **[Portfolio](https://www.safasalam.com)** 
-
----
-
-## Experience
-
-- **Junior Software Developer (Contract) · Smart Prop Firm**  
-  *August 2026 – Present*
-
-- **Software Engineering Teaching Fellow · LUMS**  
-  *July 2025 – July 2026*  
-  Co-led Software Engineering, HCI, and Computational Problem Solving courses for 100+ students. Supported development workflows, debugging, UI implementation, and Java-based Android labs.
-
-- **Teaching Assistant · LUMS**  
-  *August 2023 – May 2025*  
-  Assisted across five core CS courses, leading labs, debugging workshops, and office hours for 400+ students.
-
-- **Product Designer · Sehat Sanjha**  
-  *July 2024 – December 2024*  
-  Designed workflows and high-fidelity Figma prototypes for an AI-powered physician assistant, collaborating with developers and stakeholders on implementation.
+🌐 Portfolio: https://www.safasalam.com
 
 ---
 
-## Selected Projects
+## 🎓 Background
+- BSc (Hons.) Computer Science, **LUMS**  
+  Graduated with Distinction
+- Strong academic foundation across HCI, software engineering, systems, and data structures
 
-- **[Food Crisis Prediction with News Data](https://medium.com/@wajihanaveed.01/predicting-food-crises-with-news-data-16bea62f5548)** · Python, ML/NLP, LLMs, Polars, Pandas  
-  A Pakistan-focused forecasting pipeline combining IPC labels, traditional risk indicators, Urdu/English news, and weather signals. Includes news processing and LLM-based extraction of district-level food-security signals.
-
-- **[DastarKhwaan](https://www.safasalam.com/projects/dastarkhwan)** · React, JavaScript, AWS, Terraform  
-  Multi-vendor restaurant delivery platform with customer ordering, vendor dashboards, delivery workflows, order tracking, and reviews. AWS infrastructure provisioned with Terraform.
-
-- **[Darzi](https://www.safasalam.com/projects/darzi)** · React, Redux, WebSockets  
-  Two-sided tailor marketplace with client and tailor dashboards, custom orders, payments, chat, reviews, and real-time order updates.
-
-- **[Desktop Medicine Reminder](https://github.com/SafaSalam/RetroMedReminder)** · Electron, JavaScript  
-  Cross-platform desktop reminder app with scheduled medication alerts, desktop notifications, and a retro-inspired interface.
-
-- **[Fuel Flow](https://fuel-flow-ten.vercel.app/)** · React, Node.js  
-  A management dashboard for fuel pricing, transaction records, and operational metrics.
-
-More projects and design work are featured on my **[portfolio](https://www.safasalam.com)**.
 
 ---
 
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| **AI & LLM** | OpenAI SDK, OpenRouter, hybrid search, embeddings, LLM classification, latency and correctness benchmarking, scraping and pipeline automation |
-| **Languages** | TypeScript, JavaScript, Java, Python, C++, C, SQL |
-| **Frontend** | React, Next.js, React Native, Redux, HTML5, CSS3, responsive UI |
-| **Backend** | Node.js, Express, REST APIs, WebSockets, authentication |
-| **Databases & Cloud** | Firebase, Firestore, SQL, AWS, Vercel |
-| **Tools & DevOps** | Git, GitHub, GitLab CI, Docker, Terraform, Postman, CI/CD, Vitest, Playwright |
-| **Data & ML** | Pandas, Polars, scikit-learn, NLP |
-| **Design** | Figma, UI/UX, wireframing, prototyping, usability testing |
+## 👩‍🏫 Teaching & Academic Experience
+- **Teaching Fellow, LUMS**  
+  Courses: Computational Problem Solving, Human–Computer Interaction, Software Engineering  
+- Teaching Assistant roles across:
+  - Human–Computer Interaction
+  - Data Structures
+  - Discrete Mathematics
+  - Computer Systems
 
 ---
 
-## Education
+## 🚀 Selected Projects
+- **Personal Portfolio Website** (React, JavaScript, CSS)  
+  Designed and developed a responsive portfolio showcasing projects, experience, and design philosophy. Deployed on Vercel.
 
-**BSc (Hons.) Computer Science · Lahore University of Management Sciences (LUMS)**  
-September 2021 – May 2025 · Graduated with Distinction · CGPA 3.61
+- **DastarKhwaan** (React, AWS, Terraform)  
+  Multi-vendor food delivery platform with order management, deployment on AWS, and scalable frontend architecture.
+
+- **Darzi** (React, Redux, WebSockets)  
+  Real-time marketplace connecting customers with local tailors, featuring live updates and messaging.
+
+- **Medicine Reminder** (Electron, JavaScript)  
+  Cross-platform desktop app with scheduled reminders and system notifications.
+
+- **Mind Sync** (Figma, UX Prototyping)  
+  UX design for a teen mental-health app, focusing on accessibility, emotional sensitivity, and usability testing.
 
 ---
 
-I’m interested in building thoughtful software, learning across the stack, and working with teams that care about both engineering quality and the product experience.
+## 🛠 Skills
+
+### Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+</p>
+
+### Frontend & UI
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+</p>
+
+### Backend & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+</p>
+
+### Design & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+---
+
+## 🌱 Interests
+- Human-Computer Interaction
+- Design systems and usability
+- Building thoughtful, user-focused software
+
+---
+
+## 📫 Connect
+- Portfolio: https://www.safasalam.com  
+- LinkedIn: https://www.linkedin.com/in/safa-salam-48a069244/  
+- Email: safa16salam@gmail.com
+<!--
+**SafaSalam/SafaSalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
