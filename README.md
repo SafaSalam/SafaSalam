@@ -4,7 +4,7 @@
 
 Computer Science graduate from **Lahore University of Management Sciences (LUMS)**, graduated with Distinction. I build software across the frontend, backend, and applied AI, with an interest in turning complex requirements into useful, reliable products.
 
-🌐 **[Portfolio](https://www.safasalam.com)** · **[LinkedIn](https://www.linkedin.com/in/safa-salam-48a069244/)** · **[Email](mailto:safa16salam@gmail.com)**
+🌐 **[Portfolio](https://www.safasalam.com)** 
 
 ---
 
